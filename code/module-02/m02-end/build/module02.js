@@ -12,7 +12,7 @@ let ukCitizen;
 firstName = 'Rebecca';
 lastName = 'Smith';
 age = 42;
-ukCitizen = false;
+ukCitizen = true;
 fullName = firstName + " " + lastName;
 if (ukCitizen) {
     console.log("My name is " + fullName + ", I'm " + age + ", and I'm a citizen of the United Kingdom.");
